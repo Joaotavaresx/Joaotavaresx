@@ -1,4 +1,4 @@
-
+<div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 <div align="center">
@@ -22,25 +22,17 @@ to my personal GitHub profile!
 </div>
 </div>
 
-<div align="center">
-<p></p>
-<!-- Start of CuterCounter Code -->
-<a href="https://www.cutercounter.com/" target="_blank"><img src="https://www.cutercounter.com/hits.php?id=hvmxpnqcx&nd=6&style=71" border="0" alt="blog counter"></a>
-<!-- End of CuterCounter Code -->
+
 
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
 </div>
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaotavaresx)](https://github.com/joaotavaresx/github-readme-stats)
-- 👋 Hi, I’m @Joaotavaresx 🔗https://br.linkedin.com/in/joaotavaresx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- Android :robot:
+- 👋 Hi, I’m @Joaotavaresx 
+- 👀 I’m interested in Front end, Power BI, Python
+- 🌱 I’m currently learning about: Power BI, JavaScript, Python
+- Android 💻
 - Open source :octocat:
 <!---
 Joaotavaresx/Joaotavaresx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
