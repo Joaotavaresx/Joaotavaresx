@@ -28,7 +28,9 @@ to my personal GitHub profile!
 <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
 </div>
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaotavaresx)](https://github.com/joaotavaresx/github-readme-stats)
+
+ <div align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaotavaresx)](https://github.com/joaotavaresx/github-readme-stats)
 - 👋 Hi, I’m @Joaotavaresx 
 - 👀 I’m interested in Front end, Power BI, Python
 - 🌱 I’m currently learning about: Power BI, JavaScript, Python
