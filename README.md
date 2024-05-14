@@ -27,9 +27,6 @@ to my personal GitHub profile!
 <!-- Start of CuterCounter Code -->
 <a href="https://www.cutercounter.com/" target="_blank"><img src="https://www.cutercounter.com/hits.php?id=hvmxpnqcx&nd=6&style=71" border="0" alt="blog counter"></a>
 <!-- End of CuterCounter Code -->
-<img src="https://www.cutercounter.com/hits.php?id=hxxocqa&nd=9&style=22" alt="hit counter" align="center">
-<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
-</div>
 
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
