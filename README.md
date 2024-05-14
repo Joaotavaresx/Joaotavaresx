@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
-</div>
-<div align="center">
+
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 <div align="center">
@@ -27,8 +24,8 @@ to my personal GitHub profile!
 
 <div align="center">
 <p></p>
- <!-- Start of CuterCounter Code -->
-<a href="https://www.cutercounter.com/" target="_blank"><img src="https://www.cutercounter.com/hits.php?id=hxpnqcd&nd=6&style=1" border="0" alt="counter for blog"></a>
+<!-- Start of CuterCounter Code -->
+<a href="https://www.cutercounter.com/" target="_blank"><img src="https://www.cutercounter.com/hits.php?id=hvmxpnqcx&nd=6&style=71" border="0" alt="blog counter"></a>
 <!-- End of CuterCounter Code -->
 <img src="https://www.cutercounter.com/hits.php?id=hxxocqa&nd=9&style=22" alt="hit counter" align="center">
 <img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
